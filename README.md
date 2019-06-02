@@ -5,7 +5,4 @@ I do not represent the views of the organization. To download the executable ple
 
 ![Image of System Level Design Product Portfolio](MainGraphicalUserInterface.jpg)
 
-![Image of Product Portfolio](ProductPortfolioImage.jpg)
-
-![Image of Advanced roduct Portfolio](AdvancedProductPortfolioImage.jpg)
 
