@@ -6,29 +6,29 @@ I do not represent the views of the organization. To download the executable ple
 ![Image of System Level Design Product Portfolio](MainGraphicalUserInterface.jpg)
 
 
-# Custom IC Design Product Suite
+## Custom IC Design Product Suite
 ![Image](CustomICDesignProductImage.png)
 
 
-# System Design and Verification
+## System Design and Verification
 ![Image](SystemDesignVerificationImage.png)
 
 
-# System Design and Verification Digital Logic and SoC Simulations
+## System Design and Verification Digital Logic and SoC Simulations
 ![Image](DigitalLogicSimulationsImage.png)
 
 
-# SoC Digital Design Process
+## SoC Digital Design Process
 ![Image](ProductPortfolioSOCDigitalDesign.png)
 
 
-# Printed Circuit Board Analysis
+## Printed Circuit Board Analysis
 ![Image](PCBImage.png)
 
 
-#Cadence Embedded Software IP Portfolio
+## Cadence Embedded Software IP Portfolio
 ![Image](IPPortfolioImage.png)
 
 
-# IC Packaging and SiP Design
+## IC Packaging and SiP Design
 ![Image](ICPackageSiPDesign.png)
