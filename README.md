@@ -34,3 +34,6 @@ Company confidential information is not displayed. All images are either custom 
 
 ## IC Packaging and SiP Design
 ![Image](ICPackageSiPDesign.png)
+
+## Pragmatic Marketing
+![Image](PragmaticMarketingCertificate.png)
