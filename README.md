@@ -37,3 +37,5 @@ Company confidential information is not displayed. All images are either custom 
 
 ## Pragmatic Marketing
 ![Image](PragmaticMarketingCertificate.jpg)
+
+![image](USCopyrightCertificateofRegistration.png)
