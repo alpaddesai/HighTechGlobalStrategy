@@ -39,3 +39,5 @@ Company confidential information is not displayed. All images are either custom 
 ![Image](PragmaticMarketingCertificate.jpg)
 
 ![image](USCopyrightCertificateofRegistration.png)
+
+Advanced knowledge reference : https://github.com/alpaddesai/ProductMarketing
