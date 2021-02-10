@@ -40,4 +40,4 @@ Company confidential information is not displayed. All images are either custom 
 
 ![image](USCopyrightCertificateofRegistration.png)
 
-Advanced knowledge reference : https://github.com/alpaddesai/ProductMarketing
+Advanced knowledge reference : https://github.com/alpaddesai/ProductMarketing and https://github.com/alpaddesai/ChipDesign
