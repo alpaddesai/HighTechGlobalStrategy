@@ -38,6 +38,11 @@ Company confidential information is not displayed. All images are either custom 
 ## Pragmatic Marketing
 ![Image](PragmaticMarketingCertificate.jpg)
 
+## Interest
+![image](image1.jpg)
+
+![image](image2.jpg)
+
 ![image](USCopyrightCertificateofRegistration.png)
 
 Advanced knowledge reference : https://github.com/alpaddesai/ProductMarketing and https://github.com/alpaddesai/ChipDesign
