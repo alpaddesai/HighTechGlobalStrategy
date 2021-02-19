@@ -39,9 +39,9 @@ Company confidential information is not displayed. All images are either custom 
 ![Image](PragmaticMarketingCertificate.jpg)
 
 ## Interest
-![image](image1.jpg)
+![image](Image1.jpg)
 
-![image](image2.jpg)
+![image](Image2.jpg)
 
 ![image](USCopyrightCertificateofRegistration.png)
 
