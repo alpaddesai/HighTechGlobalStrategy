@@ -43,6 +43,8 @@ Company confidential information is not displayed. All images are either custom 
 
 ![image](Image2.jpg)
 
+![image](files.jpg)
+
 ![image](USCopyrightCertificateofRegistration.png)
 
 Advanced knowledge reference : https://github.com/alpaddesai/ProductMarketing and https://github.com/alpaddesai/ChipDesign
