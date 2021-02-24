@@ -45,4 +45,4 @@ Company confidential information is not displayed. All images are either custom 
 
 ![image](files.jpg)
 
-Advanced knowledge reference : https://github.com/alpaddesai/ProductMarketing and https://github.com/alpaddesai/ChipDesign
+Advanced knowledge reference : https://github.com/alpaddesai/ProductMarketing, https://github.com/alpaddesai/RealEstatePortfolioIdea and https://github.com/alpaddesai/ChipDesign
