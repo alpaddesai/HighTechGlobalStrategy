@@ -48,4 +48,4 @@ Company confidential information is not displayed. All images are either custom 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
-Advanced knowledge reference : https://github.com/alpaddesai/ProductMarketing, https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel and https://github.com/alpaddesai/FirmwareDesign
+Advanced knowledge reference : https://github.com/alpaddesai/ProductMarketing, https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel and https://github.com/alpaddesai/PowerandInfluentialSkills
