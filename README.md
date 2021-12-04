@@ -38,13 +38,6 @@ Company confidential information is not displayed. All images are either custom 
 ## Pragmatic Marketing
 ![Image](PragmaticMarketingCertificate.jpg)
 
-## Interest
-![image](Image1.jpg)
-
-![image](Image2.jpg)
-
-![image](files.jpg)
-
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
