@@ -31,7 +31,7 @@ Company confidential information is not displayed. All images are either custom 
 ![Image](PragmaticMarketingCertificate.jpg)
 
 ## GMAT Exam
-![image](GMAT_TestScore.jpg)
+![image](GMAT_TestScore_.jpg)
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
