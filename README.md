@@ -33,6 +33,9 @@ Company confidential information is not displayed. All images are either custom 
 ## GMAT Exam
 ![image](GMAT_TestScore_.jpg)
 
+## Admission letter
+![image](admissionletter.jpg)
+
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
