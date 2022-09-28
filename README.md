@@ -44,4 +44,4 @@ Company confidential information is not displayed. All images are custom by Alpa
 
 ![image](USCopyrightCertificate.png)
 
-Advanced knowledge reference : https://github.com/alpaddesai/ProductMarketing, https://github.com/ManagingGlobalEnterprise, https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel and https://github.com/alpaddesai/PowerandInfluentialSkills.
+Advanced knowledge reference : https://github.com/alpaddesai/ProductMarketing, https://github.com/alpaddesai/ManagingGlobalEnterprise, https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel and https://github.com/alpaddesai/PowerandInfluentialSkills.
