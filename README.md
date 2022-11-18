@@ -39,6 +39,9 @@ Company confidential information is not displayed. All images are custom by Alpa
 ## GMAT exam
 ![image](GMATImage5.jpg)
 
+## CFA Exam
+![image](CFAExam.jpg)
+
 ## Exam
 ![imaged](exam.jpg)
 
