@@ -33,9 +33,6 @@ Company confidential information is not displayed. All images are custom by Alpa
 ## GMAT Exam
 ![image](GMAT_TestScore_.jpg)
 
-## GMAT exam
-![image](GMATImage5.jpg)
-
 
 ## Exam
 ![imaged](exam.jpg)
