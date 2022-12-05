@@ -30,9 +30,6 @@ Company confidential information is not displayed. All images are custom by Alpa
 ## Pragmatic Marketing
 ![Image](PragmaticMarketingCertificate.jpg)
 
-## GMAT Exam
-![image](GMAT_TestScore_.jpg)
-
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
