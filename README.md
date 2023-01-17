@@ -4,8 +4,6 @@ The graphical user interface displays a custom interpretation of the public Cade
 
 Company confidential information is not displayed. All images are custom by Alpa D Desai. 
 
-![Image of System Level Design Product Portfolio](MainGraphicalUserInterface.jpg)
-
 ## Custom IC Design Product Suite
 ![Image](CustomICDesignProductImage.png)
 
