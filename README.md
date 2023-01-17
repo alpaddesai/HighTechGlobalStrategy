@@ -33,4 +33,4 @@ Company confidential information is not displayed. All images are custom by Alpa
 
 ![image](USCopyrightCertificate.png)
 
-Advanced knowledge reference : https://github.com/alpaddesai/ProductMarketing, https://github.com/alpaddesai/ManagingGlobalEnterprise, https://github.com/alpaddesai/TechnicalProductManagement, and https://github.com/alpaddesai/FundamentalsInternationalbusiness
+Advanced knowledge reference https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
